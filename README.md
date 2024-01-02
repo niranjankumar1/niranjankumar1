@@ -1,7 +1,7 @@
-<img src="https://github.com/niranjankumar1/niranjankumar1/blob/main/git-photo.png" height="400px" width="1100px" alt="logo">
+<img src="https://github.com/niranjankumar1/niranjankumar1/blob/main/git-photo.png" height="280px" width="1000px" alt="logo">
 <h1 align="center">Hi 👋, I'm K Niranjan Kumar</h1>
 <h3 align="center">An Enthusiastic Front-End Developer From India</h3>
-<img align="right" alt="coding" width="400" height="280" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47z99qfhpwuluhvffdky1g3i2bc46y9b3bhrhx9hex&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="coding" width="300" height="150" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47z99qfhpwuluhvffdky1g3i2bc46y9b3bhrhx9hex&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjankumar1&label=Profile%20views&color=0e75b6&style=flat" alt="niranjankumar1" /> </p>
 
