@@ -1,6 +1,7 @@
+<img src="https://github.com/niranjankumar1/niranjankumar1/blob/main/git-photo.png" height="400px" width="1100px" alt="logo">
 <h1 align="center">Hi 👋, I'm K Niranjan Kumar</h1>
 <h3 align="center">An Enthusiastic Front-End Developer From India</h3>
-<img align="right" alt="coding" width="400" height="250" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47z99qfhpwuluhvffdky1g3i2bc46y9b3bhrhx9hex&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="coding" width="400" height="280" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47z99qfhpwuluhvffdky1g3i2bc46y9b3bhrhx9hex&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjankumar1&label=Profile%20views&color=0e75b6&style=flat" alt="niranjankumar1" /> </p>
 
@@ -17,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@niranja30054011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@niranja30054011" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/niranjankumark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niranjankumark/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niranjankumark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niranjankumark/" height="30" width="40" /></a>
 <a href="https://instagram.com/niranjan_kumar_.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan_kumar_.k" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/klu2000031675" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="klu2000031675" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@klu_2000031675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@klu_2000031675" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/klu_2000031675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@klu_2000031675" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/klu2000031675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="klu2000031675" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@klu_2000031675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@klu_2000031675" height="30" width="40" /></a>
 </p>
