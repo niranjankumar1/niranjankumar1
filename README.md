@@ -31,6 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjankumar1&show_icons=true&locale=en&layout=compact" alt="niranjankumar1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjankumar1&show_icons=true&locale=en" alt="niranjankumar1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjankumar1&" alt="niranjankumar1" /></p>
